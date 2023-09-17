@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Galaxy-Classification-SDSS.iml" filepath="$PROJECT_DIR$/.idea/Galaxy-Classification-SDSS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../NLP-Review-classification/.idea/NLP-Review-classification.iml" filepath="$PROJECT_DIR$/../NLP-Review-classification/.idea/NLP-Review-classification.iml" />
     </modules>
   </component>
 </project>
